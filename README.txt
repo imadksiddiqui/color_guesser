@@ -1,1 +1,1 @@
-This is my project portfolio
+This is my color guesser page for my portfolio
