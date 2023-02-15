@@ -1,1 +1,1 @@
-This is my color guesser page for my portfolio
+This is my color guesser demo page for my portfolio
